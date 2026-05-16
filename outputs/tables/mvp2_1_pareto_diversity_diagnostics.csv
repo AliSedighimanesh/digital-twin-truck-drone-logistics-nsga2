@@ -1,0 +1,13 @@
+metric,value
+raw_final_policies,120
+unique_final_policies,47
+pareto_policies,47
+unique_drone_customers,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18"
+min_drone_customers,0
+max_drone_customers,18
+key_representatives_distinct,True
+duration_min_range,138.67132634020408
+co2_kg_range,6.384958108958269
+total_risk_range,2.05139353536
+cost_usd_range,274.2775988185465
+resilience_penalty_range,2908.5524908102334
